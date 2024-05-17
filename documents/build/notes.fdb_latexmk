@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes"] 1715944635.10414 "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.bcf" "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.bbl" "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes" 1715944639.516 0
-  "../references/bibliography.bib" 1715944617.51427 423 4d123c876bb05708b2c0869925cb69a0 ""
-  "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.bcf" 1715944639.41474 132589 8abc054a6170827b34dd3e83e345c58b "pdflatex"
+["biber /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes"] 1715950488.65115 "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.bcf" "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.bbl" "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes" 1715950490.12593 0
+  "../references/bibliography.bib" 1715950488.49721 548 32838cfa1a903acecb30985cd8babfbb ""
+  "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.bcf" 1715950490.07623 132664 7c58f03a171e61d471df62188aefdc21 "pdflatex"
   (generated)
   "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.bbl"
   "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.blg"
   (rewritten before read)
-["pdflatex"] 1715944638.44844 "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/notes/notes.tex" "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/out/notes.pdf" "notes" 1715944639.5165 0
-  "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.aux" 1715944639.41074 1385 a939058b7e711b883a5dc4a56ee9b1a9 "pdflatex"
-  "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.bbl" 1715944636.16567 5308 09e1dc6fed129aa5bc83e0349a280f45 "biber /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes"
-  "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.out" 1715944639.41374 159 d1645a20bf761a8fd22c6673613fec70 "pdflatex"
-  "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.run.xml" 1715944639.41674 2480 819dd44fcbbb497fa32d8e44216e8a01 "pdflatex"
-  "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.toc" 1715944639.41674 109 48ab786ebc01e13744319c006d0ccf41 "pdflatex"
+["pdflatex"] 1715950489.60758 "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/notes/notes.tex" "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/out/notes.pdf" "notes" 1715950490.12618 0
+  "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.aux" 1715950490.07423 1637 8f5d2f544cd5e74b4d6a9a274ae4cac4 "pdflatex"
+  "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.bbl" 1715950489.07622 7712 740774bba68add4d4c6e41c836d87211 "biber /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes"
+  "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.out" 1715950490.07623 159 d1645a20bf761a8fd22c6673613fec70 "pdflatex"
+  "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.run.xml" 1715950490.07723 2480 819dd44fcbbb497fa32d8e44216e8a01 "pdflatex"
+  "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.toc" 1715950490.07723 109 48ab786ebc01e13744319c006d0ccf41 "pdflatex"
   "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/notes/notes.tex" 1715944545.43771 942 1bbdf963410914dd4227185d1256aa59 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -106,7 +106,7 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1715860086.23501 4547809 72a019b3ea2e5a9ca986a536dc67eb1c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1715859902 7765545 776832a444ab470b3e92c298c07e2152 ""
   "notes.tex" 1715944545.43771 942 1bbdf963410914dd4227185d1256aa59 ""
-  "section_ai.tex" 1715944633.71562 333 5abd5e76333badfaf58af588961462f0 ""
+  "section_ai.tex" 1715950436.37786 304 d6c290763ffb591bb816c46a5845c04d ""
   (generated)
   "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.aux"
   "/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/notes.bcf"
