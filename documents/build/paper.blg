@@ -1,11 +1,9 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.blg'
-[36] biber:340> INFO - === Tue May 21, 2024, 17:35:51
-[45] Biber.pm:419> INFO - Reading '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bcf'
-[81] Biber.pm:979> INFO - Found 3 citekeys in bib section 0
-[90] Biber.pm:4419> INFO - Processing section 0
-[95] Biber.pm:4610> INFO - Looking for bibtex file '../references/bibliography.bib' for section 0
-[95] bibtex.pm:1713> INFO - LaTeX decoding ...
-[98] bibtex.pm:1519> INFO - Found BibTeX data source '../references/bibliography.bib'
-[117] Utils.pm:410> ERROR - BibTeX subsystem: /tmp/biber_tmp_S3JJ/f4d088b3f9f145b5c3058da33afd57d4_5172.utf8, line 18, syntax error: found "title", expected end of entry ("}" or ")") (skipping to next "@")
-[117] Biber.pm:136> INFO - ERRORS: 1
+[39] biber:340> INFO - === Tue May 21, 2024, 19:26:26
+[50] Biber.pm:419> INFO - Reading '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bcf'
+[89] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[99] bbl.pm:660> INFO - Writing '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bbl' with encoding 'UTF-8'
+[99] bbl.pm:763> INFO - Output to /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bbl
+[99] Biber.pm:131> WARN - The file '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bcf' does not contain any citations!
+[99] Biber.pm:133> INFO - WARNINGS: 1
