@@ -4,3 +4,5 @@
 \contentsline {subsection}{\numberline {1.1.1}Was sind Neurale Netzwerke?}{4}{subsection.1.1.1}%
 \contentsline {section}{\numberline {1.2}Was ist Datenschutz und warum ist es wichtig?}{4}{section.1.2}%
 \contentsline {subsection}{\numberline {1.2.1}Warum ist Datenschutz wichtig?}{4}{subsection.1.2.1}%
+\contentsline {chapter}{\numberline {2}KI, Daten und Ethik}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}KI und Daten}{5}{section.2.1}%
