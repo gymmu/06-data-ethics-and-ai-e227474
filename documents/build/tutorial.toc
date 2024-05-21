@@ -1,0 +1,22 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}\TeX und \LaTeX }{2}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Erste Schritte mit \LaTeX }{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Arbeitsweise mit VSCode}{3}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Grundlagen}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Abstände}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Textformatierungen}{5}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Listen}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Nummerierte Listen}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Aufzählungslisten}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Beschreibungslisten}{7}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Abbildungen}{8}{section.5}%
+\contentsline {section}{\numberline {6}Querverweise und Hyperlinks}{9}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Links}{9}{subsection.6.1}%
+\contentsline {section}{\numberline {7}Tabellen}{10}{section.7}%
+\contentsline {section}{\numberline {8}Mathematik mit \LaTeX }{12}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Inline-Gleichungen}{12}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Display-Gleichungen}{12}{subsection.8.2}%
+\contentsline {section}{\numberline {9}Der Aufbau einer Arbeit}{13}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Kapitel und Inhaltsverzeichnis}{13}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Quellen und Verzeichnisse}{13}{subsection.9.2}%

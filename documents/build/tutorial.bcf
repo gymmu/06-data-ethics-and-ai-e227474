@@ -3059,11 +3059,6 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">../references/bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">ai-wikipedia</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">ai-ibm</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">machine-learning-ibm</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">deep-learning-ibm</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">Ai-is-running-out-of-water</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
@@ -3100,15 +3095,6 @@
                 type="entry"
                 sortingtemplatename="nyt"
                 sortingnamekeytemplatename="apasortcite"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
-  <bcf:datalist section="0"
-                name="nyt/global//global/global"
-                type="entry"
-                sortingtemplatename="nyt"
-                sortingnamekeytemplatename="global"
                 labelprefix=""
                 uniquenametemplatename="global"
                 labelalphanametemplatename="global">
