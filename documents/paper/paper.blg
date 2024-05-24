@@ -1,0 +1,19 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'paper.blg'
+[88] biber:340> INFO - === Fri May 24, 2024, 09:26:39
+[104] Biber.pm:419> INFO - Reading '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bcf'
+[183] Biber.pm:979> INFO - Found 1 citekeys in bib section 0
+[202] Biber.pm:4419> INFO - Processing section 0
+[213] Biber.pm:4610> INFO - Looking for bibtex file '../references/bibliography.bib' for section 0
+[213] bibtex.pm:1713> INFO - LaTeX decoding ...
+[219] bibtex.pm:1519> INFO - Found BibTeX data source '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/../references/bibliography.bib'
+[261] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[261] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[261] Biber.pm:4239> INFO - Sorting list 'nyt/apasortcite//global/global' of type 'entry' with template 'nyt' and locale 'de_DE'
+[261] Biber.pm:4245> INFO - No sort tailoring available for locale 'de_DE'
+[269] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[270] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[270] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de_DE'
+[270] Biber.pm:4245> INFO - No sort tailoring available for locale 'de_DE'
+[276] bbl.pm:660> INFO - Writing 'paper.bbl' with encoding 'UTF-8'
+[277] bbl.pm:763> INFO - Output to paper.bbl
