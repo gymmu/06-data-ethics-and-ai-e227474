@@ -1,9 +1,9 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.blg'
-[39] biber:340> INFO - === Tue May 21, 2024, 19:26:26
-[50] Biber.pm:419> INFO - Reading '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bcf'
-[89] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[99] bbl.pm:660> INFO - Writing '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bbl' with encoding 'UTF-8'
-[99] bbl.pm:763> INFO - Output to /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bbl
-[99] Biber.pm:131> WARN - The file '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bcf' does not contain any citations!
-[99] Biber.pm:133> INFO - WARNINGS: 1
+[99] biber:340> INFO - === Fri May 24, 2024, 08:17:46
+[117] Biber.pm:419> INFO - Reading '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bcf'
+[197] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[216] bbl.pm:660> INFO - Writing '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bbl' with encoding 'UTF-8'
+[217] bbl.pm:763> INFO - Output to /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bbl
+[217] Biber.pm:131> WARN - The file '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bcf' does not contain any citations!
+[217] Biber.pm:133> INFO - WARNINGS: 1
