@@ -621,18 +621,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.out
-INPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.out
-INPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.out
-INPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.out
-INPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.out
-INPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.out
-INPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.out
-INPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.out
-OUTPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.pdf
-INPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.out
-INPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.out
 OUTPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.out
+OUTPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.pdf
 INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/ngerman-apa.lbx
 INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/ngerman-apa.lbx
 INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/ngerman-apa.lbx
@@ -685,9 +675,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm2488.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx2488.tfm
-INPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.toc
-INPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.toc
-INPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.toc
 OUTPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.toc
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm2074.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx2074.tfm
@@ -703,7 +690,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecti1000.tfm
 INPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.aux
 INPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.out
 INPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.out
-INPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.run.xml
 OUTPUT /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.run.xml
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
