@@ -1,15 +1,19 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'paper.blg'
-[76] biber:340> INFO - === Fri May 24, 2024, 15:17:55
-[92] Biber.pm:419> INFO - Reading '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bcf'
-[169] Biber.pm:979> INFO - Found 2 citekeys in bib section 0
-[188] Biber.pm:4419> INFO - Processing section 0
+[75] biber:340> INFO - === Mon May 27, 2024, 11:40:10
+[91] Biber.pm:419> INFO - Reading '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bcf'
+[170] Biber.pm:979> INFO - Found 5 citekeys in bib section 0
+[189] Biber.pm:4419> INFO - Processing section 0
 [199] Biber.pm:4610> INFO - Looking for bibtex file '../references/bibliography.bib' for section 0
-[200] bibtex.pm:1713> INFO - LaTeX decoding ...
-[215] bibtex.pm:1519> INFO - Found BibTeX data source '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/../references/bibliography.bib'
-[251] Utils.pm:410> ERROR - BibTeX subsystem: /tmp/biber_tmp_kUD2/f4d088b3f9f145b5c3058da33afd57d4_20631.utf8, line 225, syntax error: found ",", expected one of: number, name (entry type, key, field, or macro name), end of entry ("}" or ")") or quoted string ({...} or "...")
-[251] Biber.pm:131> WARN - Invalid or undefined BibTeX entry key in file '/tmp/biber_tmp_kUD2/f4d088b3f9f145b5c3058da33afd57d4_20631.utf8', skipping ...
-[251] Biber.pm:131> WARN - Invalid or undefined BibTeX entry key in file '/tmp/biber_tmp_kUD2/f4d088b3f9f145b5c3058da33afd57d4_20631.utf8', skipping ...
-[251] Biber.pm:131> WARN - Invalid or undefined BibTeX entry key in file '/tmp/biber_tmp_kUD2/f4d088b3f9f145b5c3058da33afd57d4_20631.utf8', skipping ...
-[251] Biber.pm:133> INFO - WARNINGS: 3
-[251] Biber.pm:136> INFO - ERRORS: 1
+[201] bibtex.pm:1713> INFO - LaTeX decoding ...
+[217] bibtex.pm:1519> INFO - Found BibTeX data source '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/../references/bibliography.bib'
+[276] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[276] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[276] Biber.pm:4239> INFO - Sorting list 'nyt/apasortcite//global/global' of type 'entry' with template 'nyt' and locale 'de_DE'
+[276] Biber.pm:4245> INFO - No sort tailoring available for locale 'de_DE'
+[289] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[289] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[289] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de_DE'
+[289] Biber.pm:4245> INFO - No sort tailoring available for locale 'de_DE'
+[298] bbl.pm:660> INFO - Writing 'paper.bbl' with encoding 'UTF-8'
+[302] bbl.pm:763> INFO - Output to paper.bbl
