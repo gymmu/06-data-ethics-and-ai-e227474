@@ -5,3 +5,5 @@
 - [ ] fix error "missing $ inserted" in last line of paper.tex
 - [ ] proofread the paper
 - [ ] attach finished paper as release
+- [ ] submit finished paper as per assignment
+- [ ] review paper as per assignment
