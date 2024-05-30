@@ -4,3 +4,4 @@
 - [x] change from hyperlinks to \citep{} (requires to fix n.1 first)
 - [ ] fix error "missing $ inserted" in last line of paper.tex
 - [ ] proofread the paper
+- [ ] attach finished paper as release
