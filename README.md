@@ -3,7 +3,7 @@
 - [x] reslove Error in bibliography.bib line 223
 - [x] change from hyperlinks to \citep{} (requires to fix n.1 first)
 - [ ] fix error "missing $ inserted" in last line of paper.tex
-- [ ] proofread the paper
+- [x] proofread the paper
 - [ ] attach finished paper as release
 - [ ] submit finished paper as per assignment
 - [ ] review paper as per assignment
