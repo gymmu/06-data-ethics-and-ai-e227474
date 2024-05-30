@@ -1,19 +1,19 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
-[1] Config.pm:310> INFO - Logfile is '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.blg'
-[98] biber:340> INFO - === Thu May 30, 2024, 19:11:54
-[120] Biber.pm:419> INFO - Reading '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bcf'
-[204] Biber.pm:979> INFO - Found 29 citekeys in bib section 0
-[223] Biber.pm:4419> INFO - Processing section 0
-[243] Biber.pm:4610> INFO - Looking for bibtex file '../references/bibliography.bib' for section 0
-[246] bibtex.pm:1713> INFO - LaTeX decoding ...
-[266] bibtex.pm:1519> INFO - Found BibTeX data source '../references/bibliography.bib'
-[492] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[492] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[492] Biber.pm:4239> INFO - Sorting list 'nyt/apasortcite//global/global' of type 'entry' with template 'nyt' and locale 'de_DE'
-[492] Biber.pm:4245> INFO - No sort tailoring available for locale 'de_DE'
-[550] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[550] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[550] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de_DE'
-[550] Biber.pm:4245> INFO - No sort tailoring available for locale 'de_DE'
-[586] bbl.pm:660> INFO - Writing '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bbl' with encoding 'UTF-8'
-[604] bbl.pm:763> INFO - Output to /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bbl
+[0] Config.pm:310> INFO - Logfile is '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.blg'
+[79] biber:340> INFO - === Thu May 30, 2024, 19:37:29
+[95] Biber.pm:419> INFO - Reading '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bcf'
+[177] Biber.pm:979> INFO - Found 30 citekeys in bib section 0
+[196] Biber.pm:4419> INFO - Processing section 0
+[208] Biber.pm:4610> INFO - Looking for bibtex file '../references/bibliography.bib' for section 0
+[210] bibtex.pm:1713> INFO - LaTeX decoding ...
+[231] bibtex.pm:1519> INFO - Found BibTeX data source '../references/bibliography.bib'
+[413] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[413] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[414] Biber.pm:4239> INFO - Sorting list 'nyt/apasortcite//global/global' of type 'entry' with template 'nyt' and locale 'de_DE'
+[414] Biber.pm:4245> INFO - No sort tailoring available for locale 'de_DE'
+[457] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[457] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[457] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de_DE'
+[458] Biber.pm:4245> INFO - No sort tailoring available for locale 'de_DE'
+[487] bbl.pm:660> INFO - Writing '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bbl' with encoding 'UTF-8'
+[508] bbl.pm:763> INFO - Output to /home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/paper.bbl
