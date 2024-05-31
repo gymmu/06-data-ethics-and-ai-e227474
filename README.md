@@ -6,6 +6,6 @@ Paper and review will be available in the [releases](https://github.com/gymmu/06
 - [x] change from hyperlinks to \citep{} (requires to fix n.1 first)
 - [x] fix error "missing $ inserted" in last line of paper.tex
 - [x] proofread the paper
-- [ ] attach finished paper as release
+- [x] attach finished paper as release
 - [ ] submit finished paper as per assignment
 - [ ] review paper as per assignment
