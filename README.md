@@ -4,7 +4,7 @@ Paper and review will be available in the [releases](https://github.com/gymmu/06
 ### Todo
 - [x] reslove Error in bibliography.bib line 223
 - [x] change from hyperlinks to \citep{} (requires to fix n.1 first)
-- [ ] fix error "missing $ inserted" in last line of paper.tex
+- [x] fix error "missing $ inserted" in last line of paper.tex
 - [x] proofread the paper
 - [ ] attach finished paper as release
 - [ ] submit finished paper as per assignment
