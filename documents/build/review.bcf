@@ -3059,37 +3059,6 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">../references/bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">Terminator-Franchise</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">open-source</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">neural-networks</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">machine-learning-ibm</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">ai-ibm</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">how-ai-is-trained</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">data-def</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">schokoladenkonsum-pro-kops-schweiz</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">triangulation</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">metadata</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">geofencing</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">car-syping-cnn</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">tha-hated-one-yt-channel</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">contact-tracing</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">google-DuckDuckGo</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">offline-tracking-google</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">car-better-spy-than-facebook</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">dont-use-whatsapp</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">you-keystrokes-are-in-the-cloud</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">openai-site</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">openai-reddit-deal</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">deepfakes</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">deepfakes-scam</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">ai-social-credit-scores</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">training-an-ai-model</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">google-enginner-says-big-ai-sucks</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">ai-extinction-lie</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">ai-water-wars</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">google-photos-false-flagging</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">drones-srf</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">google-enginner-says-big-ai-sucks</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
