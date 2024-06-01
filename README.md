@@ -8,4 +8,4 @@ Paper and review will be available in the [releases](https://github.com/gymmu/06
 - [x] proofread the paper
 - [x] attach finished paper as release
 - [ ] submit finished paper as per assignment
-- [ ] review paper as per assignment
+- [x] review paper as per assignment
