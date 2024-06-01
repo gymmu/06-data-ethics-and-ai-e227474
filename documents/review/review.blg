@@ -1,9 +1,19 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'review.blg'
-[104] biber:340> INFO - === Fri May 31, 2024, 09:11:45
-[120] Biber.pm:419> INFO - Reading '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/review.bcf'
-[199] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[218] bbl.pm:660> INFO - Writing 'review.bbl' with encoding 'UTF-8'
-[218] bbl.pm:763> INFO - Output to review.bbl
-[218] Biber.pm:131> WARN - The file '/home/user/Documents/Informatik/06-data-ethics-and-ai-e227474/documents/build/review.bcf' does not contain any citations!
-[218] Biber.pm:133> INFO - WARNINGS: 1
+[79] biber:340> INFO - === Sat Jun  1, 2024, 14:44:46
+[95] Biber.pm:419> INFO - Reading 'review.bcf'
+[175] Biber.pm:979> INFO - Found 4 citekeys in bib section 0
+[194] Biber.pm:4419> INFO - Processing section 0
+[205] Biber.pm:4610> INFO - Looking for bibtex file '../references/bibliography.bib' for section 0
+[207] bibtex.pm:1713> INFO - LaTeX decoding ...
+[229] bibtex.pm:1519> INFO - Found BibTeX data source '../references/bibliography.bib'
+[291] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[292] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[292] Biber.pm:4239> INFO - Sorting list 'nyt/apasortcite//global/global' of type 'entry' with template 'nyt' and locale 'de_DE'
+[292] Biber.pm:4245> INFO - No sort tailoring available for locale 'de_DE'
+[304] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[304] UCollate.pm:68> INFO - Overriding locale 'de_DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[304] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de_DE'
+[304] Biber.pm:4245> INFO - No sort tailoring available for locale 'de_DE'
+[312] bbl.pm:660> INFO - Writing 'review.bbl' with encoding 'UTF-8'
+[316] bbl.pm:763> INFO - Output to review.bbl
