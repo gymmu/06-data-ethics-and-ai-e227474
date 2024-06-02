@@ -7,5 +7,5 @@ Paper and review will be available in the [releases](https://github.com/gymmu/06
 - [x] fix error "missing $ inserted" in last line of paper.tex
 - [x] proofread the paper
 - [x] attach finished paper as release
-- [ ] submit finished paper as per assignment
+- [x] submit finished paper as per assignment
 - [x] review paper as per assignment
