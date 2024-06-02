@@ -1,0 +1,2883 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global}
+    \entry{how-ai-is-trained}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4167861fbe50543993ab02b73dc04403}{%
+           family={frontier},
+           familyi={f\bibinitperiod},
+           prefix={atomic},
+           prefixi={a\bibinitperiod}}}%
+      }
+      \strng{namehash}{4167861fbe50543993ab02b73dc04403}
+      \strng{fullhash}{4167861fbe50543993ab02b73dc04403}
+      \strng{bibnamehash}{4167861fbe50543993ab02b73dc04403}
+      \strng{authorbibnamehash}{4167861fbe50543993ab02b73dc04403}
+      \strng{authornamehash}{4167861fbe50543993ab02b73dc04403}
+      \strng{authorfullhash}{4167861fbe50543993ab02b73dc04403}
+      \field{extraname}{1}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{This image breaks AI}
+      \field{urlday}{8}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=p6CfR3Wpz7Y&t=390
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=p6CfR3Wpz7Y&t=390
+      \endverb
+    \endentry
+    \entry{training-an-ai-model}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4167861fbe50543993ab02b73dc04403}{%
+           family={frontier},
+           familyi={f\bibinitperiod},
+           prefix={atomic},
+           prefixi={a\bibinitperiod}}}%
+      }
+      \strng{namehash}{4167861fbe50543993ab02b73dc04403}
+      \strng{fullhash}{4167861fbe50543993ab02b73dc04403}
+      \strng{bibnamehash}{4167861fbe50543993ab02b73dc04403}
+      \strng{authorbibnamehash}{4167861fbe50543993ab02b73dc04403}
+      \strng{authornamehash}{4167861fbe50543993ab02b73dc04403}
+      \strng{authorfullhash}{4167861fbe50543993ab02b73dc04403}
+      \field{extraname}{2}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Why typing sucks now}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=188fipF-i5I
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=188fipF-i5I
+      \endverb
+    \endentry
+    \entry{ai-lobbying}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=17c6cdfa9240e3ca5f6e9dd2ef3d0441}{%
+           family={cnbc},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{17c6cdfa9240e3ca5f6e9dd2ef3d0441}
+      \strng{fullhash}{17c6cdfa9240e3ca5f6e9dd2ef3d0441}
+      \strng{bibnamehash}{17c6cdfa9240e3ca5f6e9dd2ef3d0441}
+      \strng{authorbibnamehash}{17c6cdfa9240e3ca5f6e9dd2ef3d0441}
+      \strng{authornamehash}{17c6cdfa9240e3ca5f6e9dd2ef3d0441}
+      \strng{authorfullhash}{17c6cdfa9240e3ca5f6e9dd2ef3d0441}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ai lobbying spikes nearly 200 percent}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cnbc.com/2024/02/02/ai-lobbying-spikes-nearly-200percent-as-calls-for-regulation-surge.html
+      \endverb
+      \verb{url}
+      \verb https://www.cnbc.com/2024/02/02/ai-lobbying-spikes-nearly-200percent-as-calls-for-regulation-surge.html
+      \endverb
+    \endentry
+    \entry{deepfakes-scam}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2435a45b85628172c5a47122144a7c67}{%
+           family={CNN},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{2435a45b85628172c5a47122144a7c67}
+      \strng{fullhash}{2435a45b85628172c5a47122144a7c67}
+      \strng{bibnamehash}{2435a45b85628172c5a47122144a7c67}
+      \strng{authorbibnamehash}{2435a45b85628172c5a47122144a7c67}
+      \strng{authornamehash}{2435a45b85628172c5a47122144a7c67}
+      \strng{authorfullhash}{2435a45b85628172c5a47122144a7c67}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{British engineering giant Arup revealed as \$25 million deepfake scam victim}
+      \field{urlday}{17}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://edition.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk/index.html
+      \endverb
+      \verb{url}
+      \verb https://edition.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk/index.html
+      \endverb
+    \endentry
+    \entry{car-syping-cnn}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2435a45b85628172c5a47122144a7c67}{%
+           family={CNN},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{2435a45b85628172c5a47122144a7c67}
+      \strng{fullhash}{2435a45b85628172c5a47122144a7c67}
+      \strng{bibnamehash}{2435a45b85628172c5a47122144a7c67}
+      \strng{authorbibnamehash}{2435a45b85628172c5a47122144a7c67}
+      \strng{authornamehash}{2435a45b85628172c5a47122144a7c67}
+      \strng{authorfullhash}{2435a45b85628172c5a47122144a7c67}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Is your car spying on you?}
+      \field{urlday}{23}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=aHhx8mMUV2o
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=aHhx8mMUV2o
+      \endverb
+    \endentry
+    \entry{experts-letter-dont-give-big-tech-power}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=55c388276c00f17147b82840e6098eea}{%
+           family={Encode\bibnamedelima Justice},
+           familyi={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Future\bibnamedelimb of\bibnamedelimb life\bibnamedelima institute.},
+           giveni={F\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim i\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{55c388276c00f17147b82840e6098eea}
+      \strng{fullhash}{55c388276c00f17147b82840e6098eea}
+      \strng{bibnamehash}{55c388276c00f17147b82840e6098eea}
+      \strng{authorbibnamehash}{55c388276c00f17147b82840e6098eea}
+      \strng{authornamehash}{55c388276c00f17147b82840e6098eea}
+      \strng{authorfullhash}{55c388276c00f17147b82840e6098eea}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AI Licensing for a Better Future: On Addressing Both Present Harms and Emerging Threats}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://futureoflife.org/open-letter/ai-policy-for-a-better-future-on-addressing-both-present-harms-and-emerging-threats/
+      \endverb
+      \verb{url}
+      \verb https://futureoflife.org/open-letter/ai-policy-for-a-better-future-on-addressing-both-present-harms-and-emerging-threats/
+      \endverb
+    \endentry
+    \entry{google-enginner-says-big-ai-sucks}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c5cb4b14120d355f5a282f5db3951863}{%
+           family={Guardian},
+           familyi={G\bibinitperiod},
+           given={The},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c5cb4b14120d355f5a282f5db3951863}
+      \strng{fullhash}{c5cb4b14120d355f5a282f5db3951863}
+      \strng{bibnamehash}{c5cb4b14120d355f5a282f5db3951863}
+      \strng{authorbibnamehash}{c5cb4b14120d355f5a282f5db3951863}
+      \strng{authornamehash}{c5cb4b14120d355f5a282f5db3951863}
+      \strng{authorfullhash}{c5cb4b14120d355f5a282f5db3951863}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Google engineer warns it could lose out to open-source technology in AI race}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.theguardian.com/technology/2023/may/05/google-engineer-open-source-technology-ai-openai-chatgpt
+      \endverb
+      \verb{url}
+      \verb https://www.theguardian.com/technology/2023/may/05/google-engineer-open-source-technology-ai-openai-chatgpt
+      \endverb
+    \endentry
+    \entry{ai-ibm}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{What is AI?}}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/artificial-intelligence
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/artificial-intelligence
+      \endverb
+    \endentry
+    \entry{deep-learning-ibm}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is deep learning?}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/deep-learning
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/deep-learning
+      \endverb
+    \endentry
+    \entry{machine-learning-ibm}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{3}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is ML?}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/machine-learning
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/machine-learning
+      \endverb
+    \endentry
+    \entry{neural-networks}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{4}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{what-is-a-neural-network}
+      \field{urlday}{1}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/neural-networks
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/neural-networks
+      \endverb
+    \endentry
+    \entry{data-def}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=10e1b1310e739c729643842183db1d54}{%
+           family={webster},
+           familyi={w\bibinitperiod},
+           prefix={mirriam},
+           prefixi={m\bibinitperiod}}}%
+      }
+      \strng{namehash}{10e1b1310e739c729643842183db1d54}
+      \strng{fullhash}{10e1b1310e739c729643842183db1d54}
+      \strng{bibnamehash}{10e1b1310e739c729643842183db1d54}
+      \strng{authorbibnamehash}{10e1b1310e739c729643842183db1d54}
+      \strng{authornamehash}{10e1b1310e739c729643842183db1d54}
+      \strng{authorfullhash}{10e1b1310e739c729643842183db1d54}
+      \field{sortinit}{m}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Data definition}
+      \field{urlday}{1}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.merriam-webster.com/dictionary/data
+      \endverb
+      \verb{url}
+      \verb https://www.merriam-webster.com/dictionary/data
+      \endverb
+    \endentry
+    \entry{offline-tracking-google}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NO PRIVACY OFFLINE!? Google will spy on you in physical stores – Can businesses really do anything?}
+      \field{urlday}{27}
+      \field{urlmonth}{5}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=KpplFma_27s
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=KpplFma_27s
+      \endverb
+    \endentry
+    \entry{dont-use-google}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{2}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{WHY YOU NEED TO STOP USING GOOGLE - How Google monopoly threatens everything}
+      \field{year}{2017}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=vZBa5-wFAfQ
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=vZBa5-wFAfQ
+      \endverb
+      \warn{\item online entry 'dont-use-google' (../references/bibliography.bib): Invalid format '2017-8-13' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{contact-tracing}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{3}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Apple and Google contact tracing is a dystopian nightmare}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=WRalTWAFBY4
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=WRalTWAFBY4
+      \endverb
+    \endentry
+    \entry{dont-use-whatsapp}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{4}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Don't use Whatsapp}
+      \field{urlday}{4}
+      \field{urlmonth}{2}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=shpiVm1qpnw
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=shpiVm1qpnw
+      \endverb
+    \endentry
+    \entry{ai-social-credit-scores}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{5}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Social Scores Are Real And You Have One Too}
+      \field{urlday}{20}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=VUhKTngpd8c
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=VUhKTngpd8c
+      \endverb
+    \endentry
+    \entry{car-better-spy-than-facebook}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{6}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Your Car Is a Better Spy than Facebook}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2012}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=WX2SWUMt_fk
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=WX2SWUMt_fk
+      \endverb
+    \endentry
+    \entry{you-keystrokes-are-in-the-cloud}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{7}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Your Keystroks Are In The Cloud}
+      \field{urlday}{25}
+      \field{urlmonth}{2}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=vCRX0MZm2KI
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=vCRX0MZm2KI
+      \endverb
+    \endentry
+    \entry{ai-water-wars}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{8}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ai is running out of water}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=F-6la_I-xkQ
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=F-6la_I-xkQ
+      \endverb
+    \endentry
+    \entry{Ai-is-running-out-of-water}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{9}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Artificial INtelligence is running out of water}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://piped.adminforge.de/watch?v=F-6la_I-xkQ
+      \endverb
+      \verb{url}
+      \verb https://piped.adminforge.de/watch?v=F-6la_I-xkQ
+      \endverb
+    \endentry
+    \entry{tha-hated-one-yt-channel}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{10}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Hated One}
+      \field{urlday}{27}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q
+      \endverb
+    \endentry
+    \entry{ai-extinction-lie}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{11}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Why you shouldn't believe the AI extinction lie}}
+      \field{urlday}{3}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=5NUD7rdbCm8
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=5NUD7rdbCm8
+      \endverb
+    \endentry
+    \entry{google-DuckDuckGo}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4b43d4e2c8705d75190233585628f035}{%
+           family={one},
+           familyi={o\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4b43d4e2c8705d75190233585628f035}
+      \strng{fullhash}{4b43d4e2c8705d75190233585628f035}
+      \strng{bibnamehash}{4b43d4e2c8705d75190233585628f035}
+      \strng{authorbibnamehash}{4b43d4e2c8705d75190233585628f035}
+      \strng{authornamehash}{4b43d4e2c8705d75190233585628f035}
+      \strng{authorfullhash}{4b43d4e2c8705d75190233585628f035}
+      \field{sortinit}{o}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Google vs DuckDuckGo Search engine manipulation, censorship and why you should switch}
+      \field{urlday}{14}
+      \field{urlmonth}{10}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=SrsCEbi5N7Y
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=SrsCEbi5N7Y
+      \endverb
+    \endentry
+    \entry{openai-site}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0523b13262b12c215d8009938f5c14f1}{%
+           family={OpenAI},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{fullhash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{bibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorbibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authornamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorfullhash}{0523b13262b12c215d8009938f5c14f1}
+      \field{extraname}{1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Homepage}
+      \field{urlday}{1}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://openai.com/
+      \endverb
+      \verb{url}
+      \verb https://openai.com/
+      \endverb
+    \endentry
+    \entry{openai-reddit-deal}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0523b13262b12c215d8009938f5c14f1}{%
+           family={OpenAI},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{fullhash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{bibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorbibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authornamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorfullhash}{0523b13262b12c215d8009938f5c14f1}
+      \field{extraname}{2}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{OpenAI and Reddit Partnership}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://openai.com/index/openai-and-reddit-partnership/
+      \endverb
+      \verb{url}
+      \verb https://openai.com/index/openai-and-reddit-partnership/
+      \endverb
+    \endentry
+    \entry{criminal-screening-ai-bias}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bb4040c4e3b8967df64e0919564128b2}{%
+           family={Publica},
+           familyi={P\bibinitperiod},
+           given={Pro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bb4040c4e3b8967df64e0919564128b2}
+      \strng{fullhash}{bb4040c4e3b8967df64e0919564128b2}
+      \strng{bibnamehash}{bb4040c4e3b8967df64e0919564128b2}
+      \strng{authorbibnamehash}{bb4040c4e3b8967df64e0919564128b2}
+      \strng{authornamehash}{bb4040c4e3b8967df64e0919564128b2}
+      \strng{authorfullhash}{bb4040c4e3b8967df64e0919564128b2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Machine Bias}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+      \endverb
+      \verb{url}
+      \verb https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+      \endverb
+    \endentry
+    \entry{amazon-hiring-ai-bias}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7513717dba8b208fe06799dcc54e59e2}{%
+           family={Reuters},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{7513717dba8b208fe06799dcc54e59e2}
+      \strng{fullhash}{7513717dba8b208fe06799dcc54e59e2}
+      \strng{bibnamehash}{7513717dba8b208fe06799dcc54e59e2}
+      \strng{authorbibnamehash}{7513717dba8b208fe06799dcc54e59e2}
+      \strng{authornamehash}{7513717dba8b208fe06799dcc54e59e2}
+      \strng{authorfullhash}{7513717dba8b208fe06799dcc54e59e2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Insight - Amazon scraps secret AI recruiting tool that showed bias against women}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G/
+      \endverb
+      \verb{url}
+      \verb https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G/
+      \endverb
+    \endentry
+    \entry{drones-srf}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aea3f76631696c4d478bc000fc9ea5ad}{%
+           family={SRF},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3f76631696c4d478bc000fc9ea5ad}
+      \strng{fullhash}{aea3f76631696c4d478bc000fc9ea5ad}
+      \strng{bibnamehash}{aea3f76631696c4d478bc000fc9ea5ad}
+      \strng{authorbibnamehash}{aea3f76631696c4d478bc000fc9ea5ad}
+      \strng{authornamehash}{aea3f76631696c4d478bc000fc9ea5ad}
+      \strng{authorfullhash}{aea3f76631696c4d478bc000fc9ea5ad}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Der schmutzige Drohnenkrieg der USA}
+      \field{urlday}{20}
+      \field{urlmonth}{12}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.srf.ch/news/international/tausende-zivile-opfer-der-schmutzige-drohnenkrieg-der-usa
+      \endverb
+      \verb{url}
+      \verb https://www.srf.ch/news/international/tausende-zivile-opfer-der-schmutzige-drohnenkrieg-der-usa
+      \endverb
+    \endentry
+    \entry{schokoladenkonsum-pro-kops-schweiz}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0654e4c5c2085237fe926ef651148b25}{%
+           family={statista.com},
+           familyi={s\bibinitperiod}}}%
+      }
+      \strng{namehash}{0654e4c5c2085237fe926ef651148b25}
+      \strng{fullhash}{0654e4c5c2085237fe926ef651148b25}
+      \strng{bibnamehash}{0654e4c5c2085237fe926ef651148b25}
+      \strng{authorbibnamehash}{0654e4c5c2085237fe926ef651148b25}
+      \strng{authornamehash}{0654e4c5c2085237fe926ef651148b25}
+      \strng{authorfullhash}{0654e4c5c2085237fe926ef651148b25}
+      \field{sortinit}{s}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pro-Kopf-Konsum von Schokolade in der Schweiz in den Jahren 2005 bis 2023}
+      \field{urlday}{27}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://de.statista.com/statistik/daten/studie/369440/umfrage/pro-kopf-konsum-von-schokolade-in-der-schweiz/
+      \endverb
+      \verb{url}
+      \verb https://de.statista.com/statistik/daten/studie/369440/umfrage/pro-kopf-konsum-von-schokolade-in-der-schweiz/
+      \endverb
+    \endentry
+    \entry{amazon-ai-walk-out-store}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d067a6a8ad9452165bae4a9e0291f481}{%
+           family={Technica},
+           familyi={T\bibinitperiod},
+           given={Ars},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d067a6a8ad9452165bae4a9e0291f481}
+      \strng{fullhash}{d067a6a8ad9452165bae4a9e0291f481}
+      \strng{bibnamehash}{d067a6a8ad9452165bae4a9e0291f481}
+      \strng{authorbibnamehash}{d067a6a8ad9452165bae4a9e0291f481}
+      \strng{authornamehash}{d067a6a8ad9452165bae4a9e0291f481}
+      \strng{authorfullhash}{d067a6a8ad9452165bae4a9e0291f481}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Amazon Fresh kills “Just Walk Out” shopping tech—it never really worked}}
+      \field{urlday}{3}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://arstechnica.com/gadgets/2024/04/amazon-ends-ai-powered-store-checkout-which-needed-1000-video-reviewers/
+      \endverb
+      \verb{url}
+      \verb https://arstechnica.com/gadgets/2024/04/amazon-ends-ai-powered-store-checkout-which-needed-1000-video-reviewers/
+      \endverb
+    \endentry
+    \entry{google-photos-false-flagging}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=13249392f5ea25543b1c2e3dc937f516}{%
+           family={Times},
+           familyi={T\bibinitperiod},
+           given={The\bibnamedelimb New\bibnamedelima York},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{13249392f5ea25543b1c2e3dc937f516}
+      \strng{fullhash}{13249392f5ea25543b1c2e3dc937f516}
+      \strng{bibnamehash}{13249392f5ea25543b1c2e3dc937f516}
+      \strng{authorbibnamehash}{13249392f5ea25543b1c2e3dc937f516}
+      \strng{authornamehash}{13249392f5ea25543b1c2e3dc937f516}
+      \strng{authorfullhash}{13249392f5ea25543b1c2e3dc937f516}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Dad Took Photos of His Naked Toddler for the Doctor Google Flagged Him as a Criminal}
+      \field{urlday}{21}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html
+      \endverb
+      \verb{url}
+      \verb https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html
+      \endverb
+    \endentry
+    \entry{ai-wikipedia}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Künstliche Intelligenz}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz
+      \endverb
+      \verb{url}
+      \verb https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz
+      \endverb
+    \endentry
+    \entry{algorythmic-bias}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Algorytmic bias}
+      \field{urlday}{30}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Algorithmic_bias
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Algorithmic_bias
+      \endverb
+    \endentry
+    \entry{deepfakes}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{3}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Deepfake}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Deepfake
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Deepfake
+      \endverb
+    \endentry
+    \entry{geofencing}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{4}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Geo-Fence}
+      \field{urlday}{23}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Geo-fence
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Geo-fence
+      \endverb
+    \endentry
+    \entry{open-source}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{5}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Open-source Software}
+      \field{urlday}{1}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Open-source_software
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Open-source_software
+      \endverb
+    \endentry
+    \entry{Terminator-Franchise}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Terminator}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/The_Terminator
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/The_Terminator
+      \endverb
+    \endentry
+    \entry{triangulation}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{7}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Triangulation}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Triangulation
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Triangulation
+      \endverb
+    \endentry
+    \entry{encryption}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{8}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Verschluesselung}
+      \field{urlday}{15}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://de.wikipedia.org/wiki/Verschl%C3%BCsselung
+      \endverb
+      \verb{url}
+      \verb https://de.wikipedia.org/wiki/Verschl%C3%BCsselung
+      \endverb
+    \endentry
+    \entry{metadata}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=12672e79b01e9ca7018105efb0ef871c}{%
+           family={wikipedia},
+           familyi={w\bibinitperiod}}}%
+      }
+      \strng{namehash}{12672e79b01e9ca7018105efb0ef871c}
+      \strng{fullhash}{12672e79b01e9ca7018105efb0ef871c}
+      \strng{bibnamehash}{12672e79b01e9ca7018105efb0ef871c}
+      \strng{authorbibnamehash}{12672e79b01e9ca7018105efb0ef871c}
+      \strng{authornamehash}{12672e79b01e9ca7018105efb0ef871c}
+      \strng{authorfullhash}{12672e79b01e9ca7018105efb0ef871c}
+      \field{sortinit}{w}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Metadata}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Metadata
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Metadata
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global}
+    \entry{how-ai-is-trained}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4167861fbe50543993ab02b73dc04403}{%
+           family={frontier},
+           familyi={f\bibinitperiod},
+           prefix={atomic},
+           prefixi={a\bibinitperiod}}}%
+      }
+      \strng{namehash}{4167861fbe50543993ab02b73dc04403}
+      \strng{fullhash}{4167861fbe50543993ab02b73dc04403}
+      \strng{bibnamehash}{4167861fbe50543993ab02b73dc04403}
+      \strng{authorbibnamehash}{4167861fbe50543993ab02b73dc04403}
+      \strng{authornamehash}{4167861fbe50543993ab02b73dc04403}
+      \strng{authorfullhash}{4167861fbe50543993ab02b73dc04403}
+      \field{extraname}{1}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{This image breaks AI}
+      \field{urlday}{8}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=p6CfR3Wpz7Y&t=390
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=p6CfR3Wpz7Y&t=390
+      \endverb
+    \endentry
+    \entry{training-an-ai-model}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4167861fbe50543993ab02b73dc04403}{%
+           family={frontier},
+           familyi={f\bibinitperiod},
+           prefix={atomic},
+           prefixi={a\bibinitperiod}}}%
+      }
+      \strng{namehash}{4167861fbe50543993ab02b73dc04403}
+      \strng{fullhash}{4167861fbe50543993ab02b73dc04403}
+      \strng{bibnamehash}{4167861fbe50543993ab02b73dc04403}
+      \strng{authorbibnamehash}{4167861fbe50543993ab02b73dc04403}
+      \strng{authornamehash}{4167861fbe50543993ab02b73dc04403}
+      \strng{authorfullhash}{4167861fbe50543993ab02b73dc04403}
+      \field{extraname}{2}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Why typing sucks now}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=188fipF-i5I
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=188fipF-i5I
+      \endverb
+    \endentry
+    \entry{ai-lobbying}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=17c6cdfa9240e3ca5f6e9dd2ef3d0441}{%
+           family={cnbc},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{17c6cdfa9240e3ca5f6e9dd2ef3d0441}
+      \strng{fullhash}{17c6cdfa9240e3ca5f6e9dd2ef3d0441}
+      \strng{bibnamehash}{17c6cdfa9240e3ca5f6e9dd2ef3d0441}
+      \strng{authorbibnamehash}{17c6cdfa9240e3ca5f6e9dd2ef3d0441}
+      \strng{authornamehash}{17c6cdfa9240e3ca5f6e9dd2ef3d0441}
+      \strng{authorfullhash}{17c6cdfa9240e3ca5f6e9dd2ef3d0441}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ai lobbying spikes nearly 200 percent}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cnbc.com/2024/02/02/ai-lobbying-spikes-nearly-200percent-as-calls-for-regulation-surge.html
+      \endverb
+      \verb{url}
+      \verb https://www.cnbc.com/2024/02/02/ai-lobbying-spikes-nearly-200percent-as-calls-for-regulation-surge.html
+      \endverb
+    \endentry
+    \entry{deepfakes-scam}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2435a45b85628172c5a47122144a7c67}{%
+           family={CNN},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{2435a45b85628172c5a47122144a7c67}
+      \strng{fullhash}{2435a45b85628172c5a47122144a7c67}
+      \strng{bibnamehash}{2435a45b85628172c5a47122144a7c67}
+      \strng{authorbibnamehash}{2435a45b85628172c5a47122144a7c67}
+      \strng{authornamehash}{2435a45b85628172c5a47122144a7c67}
+      \strng{authorfullhash}{2435a45b85628172c5a47122144a7c67}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{British engineering giant Arup revealed as \$25 million deepfake scam victim}
+      \field{urlday}{17}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://edition.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk/index.html
+      \endverb
+      \verb{url}
+      \verb https://edition.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk/index.html
+      \endverb
+    \endentry
+    \entry{car-syping-cnn}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2435a45b85628172c5a47122144a7c67}{%
+           family={CNN},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{2435a45b85628172c5a47122144a7c67}
+      \strng{fullhash}{2435a45b85628172c5a47122144a7c67}
+      \strng{bibnamehash}{2435a45b85628172c5a47122144a7c67}
+      \strng{authorbibnamehash}{2435a45b85628172c5a47122144a7c67}
+      \strng{authornamehash}{2435a45b85628172c5a47122144a7c67}
+      \strng{authorfullhash}{2435a45b85628172c5a47122144a7c67}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Is your car spying on you?}
+      \field{urlday}{23}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=aHhx8mMUV2o
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=aHhx8mMUV2o
+      \endverb
+    \endentry
+    \entry{experts-letter-dont-give-big-tech-power}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=55c388276c00f17147b82840e6098eea}{%
+           family={Encode\bibnamedelima Justice},
+           familyi={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Future\bibnamedelimb of\bibnamedelimb life\bibnamedelima institute.},
+           giveni={F\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim i\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{55c388276c00f17147b82840e6098eea}
+      \strng{fullhash}{55c388276c00f17147b82840e6098eea}
+      \strng{bibnamehash}{55c388276c00f17147b82840e6098eea}
+      \strng{authorbibnamehash}{55c388276c00f17147b82840e6098eea}
+      \strng{authornamehash}{55c388276c00f17147b82840e6098eea}
+      \strng{authorfullhash}{55c388276c00f17147b82840e6098eea}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AI Licensing for a Better Future: On Addressing Both Present Harms and Emerging Threats}
+      \field{urlday}{2}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://futureoflife.org/open-letter/ai-policy-for-a-better-future-on-addressing-both-present-harms-and-emerging-threats/
+      \endverb
+      \verb{url}
+      \verb https://futureoflife.org/open-letter/ai-policy-for-a-better-future-on-addressing-both-present-harms-and-emerging-threats/
+      \endverb
+    \endentry
+    \entry{google-enginner-says-big-ai-sucks}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c5cb4b14120d355f5a282f5db3951863}{%
+           family={Guardian},
+           familyi={G\bibinitperiod},
+           given={The},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c5cb4b14120d355f5a282f5db3951863}
+      \strng{fullhash}{c5cb4b14120d355f5a282f5db3951863}
+      \strng{bibnamehash}{c5cb4b14120d355f5a282f5db3951863}
+      \strng{authorbibnamehash}{c5cb4b14120d355f5a282f5db3951863}
+      \strng{authornamehash}{c5cb4b14120d355f5a282f5db3951863}
+      \strng{authorfullhash}{c5cb4b14120d355f5a282f5db3951863}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Google engineer warns it could lose out to open-source technology in AI race}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.theguardian.com/technology/2023/may/05/google-engineer-open-source-technology-ai-openai-chatgpt
+      \endverb
+      \verb{url}
+      \verb https://www.theguardian.com/technology/2023/may/05/google-engineer-open-source-technology-ai-openai-chatgpt
+      \endverb
+    \endentry
+    \entry{ai-ibm}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{What is AI?}}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/artificial-intelligence
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/artificial-intelligence
+      \endverb
+    \endentry
+    \entry{deep-learning-ibm}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is deep learning?}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/deep-learning
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/deep-learning
+      \endverb
+    \endentry
+    \entry{machine-learning-ibm}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{3}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is ML?}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/machine-learning
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/machine-learning
+      \endverb
+    \endentry
+    \entry{neural-networks}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{4}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{what-is-a-neural-network}
+      \field{urlday}{1}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/neural-networks
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/neural-networks
+      \endverb
+    \endentry
+    \entry{data-def}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=10e1b1310e739c729643842183db1d54}{%
+           family={webster},
+           familyi={w\bibinitperiod},
+           prefix={mirriam},
+           prefixi={m\bibinitperiod}}}%
+      }
+      \strng{namehash}{10e1b1310e739c729643842183db1d54}
+      \strng{fullhash}{10e1b1310e739c729643842183db1d54}
+      \strng{bibnamehash}{10e1b1310e739c729643842183db1d54}
+      \strng{authorbibnamehash}{10e1b1310e739c729643842183db1d54}
+      \strng{authornamehash}{10e1b1310e739c729643842183db1d54}
+      \strng{authorfullhash}{10e1b1310e739c729643842183db1d54}
+      \field{sortinit}{m}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Data definition}
+      \field{urlday}{1}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.merriam-webster.com/dictionary/data
+      \endverb
+      \verb{url}
+      \verb https://www.merriam-webster.com/dictionary/data
+      \endverb
+    \endentry
+    \entry{offline-tracking-google}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NO PRIVACY OFFLINE!? Google will spy on you in physical stores – Can businesses really do anything?}
+      \field{urlday}{27}
+      \field{urlmonth}{5}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=KpplFma_27s
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=KpplFma_27s
+      \endverb
+    \endentry
+    \entry{dont-use-google}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{2}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{WHY YOU NEED TO STOP USING GOOGLE - How Google monopoly threatens everything}
+      \field{year}{2017}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=vZBa5-wFAfQ
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=vZBa5-wFAfQ
+      \endverb
+      \warn{\item online entry 'dont-use-google' (../references/bibliography.bib): Invalid format '2017-8-13' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{contact-tracing}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{3}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Apple and Google contact tracing is a dystopian nightmare}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=WRalTWAFBY4
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=WRalTWAFBY4
+      \endverb
+    \endentry
+    \entry{dont-use-whatsapp}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{4}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Don't use Whatsapp}
+      \field{urlday}{4}
+      \field{urlmonth}{2}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=shpiVm1qpnw
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=shpiVm1qpnw
+      \endverb
+    \endentry
+    \entry{ai-social-credit-scores}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{5}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Social Scores Are Real And You Have One Too}
+      \field{urlday}{20}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=VUhKTngpd8c
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=VUhKTngpd8c
+      \endverb
+    \endentry
+    \entry{car-better-spy-than-facebook}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{6}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Your Car Is a Better Spy than Facebook}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2012}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=WX2SWUMt_fk
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=WX2SWUMt_fk
+      \endverb
+    \endentry
+    \entry{you-keystrokes-are-in-the-cloud}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{7}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Your Keystroks Are In The Cloud}
+      \field{urlday}{25}
+      \field{urlmonth}{2}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=vCRX0MZm2KI
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=vCRX0MZm2KI
+      \endverb
+    \endentry
+    \entry{ai-water-wars}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{8}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ai is running out of water}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=F-6la_I-xkQ
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=F-6la_I-xkQ
+      \endverb
+    \endentry
+    \entry{Ai-is-running-out-of-water}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{9}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Artificial INtelligence is running out of water}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://piped.adminforge.de/watch?v=F-6la_I-xkQ
+      \endverb
+      \verb{url}
+      \verb https://piped.adminforge.de/watch?v=F-6la_I-xkQ
+      \endverb
+    \endentry
+    \entry{tha-hated-one-yt-channel}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{10}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Hated One}
+      \field{urlday}{27}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q
+      \endverb
+    \endentry
+    \entry{ai-extinction-lie}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=407b7f23afb4fc437ab5b5f9778ecafe}{%
+           family={One},
+           familyi={O\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{fullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{bibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorbibnamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authornamehash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \strng{authorfullhash}{407b7f23afb4fc437ab5b5f9778ecafe}
+      \field{extraname}{11}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Why you shouldn't believe the AI extinction lie}}
+      \field{urlday}{3}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=5NUD7rdbCm8
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=5NUD7rdbCm8
+      \endverb
+    \endentry
+    \entry{google-DuckDuckGo}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4b43d4e2c8705d75190233585628f035}{%
+           family={one},
+           familyi={o\bibinitperiod},
+           given={The\bibnamedelima Hated},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4b43d4e2c8705d75190233585628f035}
+      \strng{fullhash}{4b43d4e2c8705d75190233585628f035}
+      \strng{bibnamehash}{4b43d4e2c8705d75190233585628f035}
+      \strng{authorbibnamehash}{4b43d4e2c8705d75190233585628f035}
+      \strng{authornamehash}{4b43d4e2c8705d75190233585628f035}
+      \strng{authorfullhash}{4b43d4e2c8705d75190233585628f035}
+      \field{sortinit}{o}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Google vs DuckDuckGo Search engine manipulation, censorship and why you should switch}
+      \field{urlday}{14}
+      \field{urlmonth}{10}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://youtube.com/watch?v=SrsCEbi5N7Y
+      \endverb
+      \verb{url}
+      \verb https://youtube.com/watch?v=SrsCEbi5N7Y
+      \endverb
+    \endentry
+    \entry{openai-site}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0523b13262b12c215d8009938f5c14f1}{%
+           family={OpenAI},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{fullhash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{bibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorbibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authornamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorfullhash}{0523b13262b12c215d8009938f5c14f1}
+      \field{extraname}{1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Homepage}
+      \field{urlday}{1}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://openai.com/
+      \endverb
+      \verb{url}
+      \verb https://openai.com/
+      \endverb
+    \endentry
+    \entry{openai-reddit-deal}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0523b13262b12c215d8009938f5c14f1}{%
+           family={OpenAI},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{fullhash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{bibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorbibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authornamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorfullhash}{0523b13262b12c215d8009938f5c14f1}
+      \field{extraname}{2}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{OpenAI and Reddit Partnership}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://openai.com/index/openai-and-reddit-partnership/
+      \endverb
+      \verb{url}
+      \verb https://openai.com/index/openai-and-reddit-partnership/
+      \endverb
+    \endentry
+    \entry{criminal-screening-ai-bias}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bb4040c4e3b8967df64e0919564128b2}{%
+           family={Publica},
+           familyi={P\bibinitperiod},
+           given={Pro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bb4040c4e3b8967df64e0919564128b2}
+      \strng{fullhash}{bb4040c4e3b8967df64e0919564128b2}
+      \strng{bibnamehash}{bb4040c4e3b8967df64e0919564128b2}
+      \strng{authorbibnamehash}{bb4040c4e3b8967df64e0919564128b2}
+      \strng{authornamehash}{bb4040c4e3b8967df64e0919564128b2}
+      \strng{authorfullhash}{bb4040c4e3b8967df64e0919564128b2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Machine Bias}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+      \endverb
+      \verb{url}
+      \verb https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+      \endverb
+    \endentry
+    \entry{amazon-hiring-ai-bias}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7513717dba8b208fe06799dcc54e59e2}{%
+           family={Reuters},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{7513717dba8b208fe06799dcc54e59e2}
+      \strng{fullhash}{7513717dba8b208fe06799dcc54e59e2}
+      \strng{bibnamehash}{7513717dba8b208fe06799dcc54e59e2}
+      \strng{authorbibnamehash}{7513717dba8b208fe06799dcc54e59e2}
+      \strng{authornamehash}{7513717dba8b208fe06799dcc54e59e2}
+      \strng{authorfullhash}{7513717dba8b208fe06799dcc54e59e2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Insight - Amazon scraps secret AI recruiting tool that showed bias against women}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G/
+      \endverb
+      \verb{url}
+      \verb https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G/
+      \endverb
+    \endentry
+    \entry{drones-srf}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aea3f76631696c4d478bc000fc9ea5ad}{%
+           family={SRF},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3f76631696c4d478bc000fc9ea5ad}
+      \strng{fullhash}{aea3f76631696c4d478bc000fc9ea5ad}
+      \strng{bibnamehash}{aea3f76631696c4d478bc000fc9ea5ad}
+      \strng{authorbibnamehash}{aea3f76631696c4d478bc000fc9ea5ad}
+      \strng{authornamehash}{aea3f76631696c4d478bc000fc9ea5ad}
+      \strng{authorfullhash}{aea3f76631696c4d478bc000fc9ea5ad}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Der schmutzige Drohnenkrieg der USA}
+      \field{urlday}{20}
+      \field{urlmonth}{12}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.srf.ch/news/international/tausende-zivile-opfer-der-schmutzige-drohnenkrieg-der-usa
+      \endverb
+      \verb{url}
+      \verb https://www.srf.ch/news/international/tausende-zivile-opfer-der-schmutzige-drohnenkrieg-der-usa
+      \endverb
+    \endentry
+    \entry{schokoladenkonsum-pro-kops-schweiz}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0654e4c5c2085237fe926ef651148b25}{%
+           family={statista.com},
+           familyi={s\bibinitperiod}}}%
+      }
+      \strng{namehash}{0654e4c5c2085237fe926ef651148b25}
+      \strng{fullhash}{0654e4c5c2085237fe926ef651148b25}
+      \strng{bibnamehash}{0654e4c5c2085237fe926ef651148b25}
+      \strng{authorbibnamehash}{0654e4c5c2085237fe926ef651148b25}
+      \strng{authornamehash}{0654e4c5c2085237fe926ef651148b25}
+      \strng{authorfullhash}{0654e4c5c2085237fe926ef651148b25}
+      \field{sortinit}{s}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pro-Kopf-Konsum von Schokolade in der Schweiz in den Jahren 2005 bis 2023}
+      \field{urlday}{27}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://de.statista.com/statistik/daten/studie/369440/umfrage/pro-kopf-konsum-von-schokolade-in-der-schweiz/
+      \endverb
+      \verb{url}
+      \verb https://de.statista.com/statistik/daten/studie/369440/umfrage/pro-kopf-konsum-von-schokolade-in-der-schweiz/
+      \endverb
+    \endentry
+    \entry{amazon-ai-walk-out-store}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d067a6a8ad9452165bae4a9e0291f481}{%
+           family={Technica},
+           familyi={T\bibinitperiod},
+           given={Ars},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d067a6a8ad9452165bae4a9e0291f481}
+      \strng{fullhash}{d067a6a8ad9452165bae4a9e0291f481}
+      \strng{bibnamehash}{d067a6a8ad9452165bae4a9e0291f481}
+      \strng{authorbibnamehash}{d067a6a8ad9452165bae4a9e0291f481}
+      \strng{authornamehash}{d067a6a8ad9452165bae4a9e0291f481}
+      \strng{authorfullhash}{d067a6a8ad9452165bae4a9e0291f481}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Amazon Fresh kills “Just Walk Out” shopping tech—it never really worked}}
+      \field{urlday}{3}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://arstechnica.com/gadgets/2024/04/amazon-ends-ai-powered-store-checkout-which-needed-1000-video-reviewers/
+      \endverb
+      \verb{url}
+      \verb https://arstechnica.com/gadgets/2024/04/amazon-ends-ai-powered-store-checkout-which-needed-1000-video-reviewers/
+      \endverb
+    \endentry
+    \entry{google-photos-false-flagging}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=13249392f5ea25543b1c2e3dc937f516}{%
+           family={Times},
+           familyi={T\bibinitperiod},
+           given={The\bibnamedelimb New\bibnamedelima York},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{13249392f5ea25543b1c2e3dc937f516}
+      \strng{fullhash}{13249392f5ea25543b1c2e3dc937f516}
+      \strng{bibnamehash}{13249392f5ea25543b1c2e3dc937f516}
+      \strng{authorbibnamehash}{13249392f5ea25543b1c2e3dc937f516}
+      \strng{authornamehash}{13249392f5ea25543b1c2e3dc937f516}
+      \strng{authorfullhash}{13249392f5ea25543b1c2e3dc937f516}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Dad Took Photos of His Naked Toddler for the Doctor Google Flagged Him as a Criminal}
+      \field{urlday}{21}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html
+      \endverb
+      \verb{url}
+      \verb https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html
+      \endverb
+    \endentry
+    \entry{ai-wikipedia}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Künstliche Intelligenz}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz
+      \endverb
+      \verb{url}
+      \verb https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz
+      \endverb
+    \endentry
+    \entry{algorythmic-bias}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Algorytmic bias}
+      \field{urlday}{30}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Algorithmic_bias
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Algorithmic_bias
+      \endverb
+    \endentry
+    \entry{deepfakes}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{3}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Deepfake}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Deepfake
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Deepfake
+      \endverb
+    \endentry
+    \entry{geofencing}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{4}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Geo-Fence}
+      \field{urlday}{23}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Geo-fence
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Geo-fence
+      \endverb
+    \endentry
+    \entry{open-source}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{5}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Open-source Software}
+      \field{urlday}{1}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Open-source_software
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Open-source_software
+      \endverb
+    \endentry
+    \entry{Terminator-Franchise}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Terminator}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/The_Terminator
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/The_Terminator
+      \endverb
+    \endentry
+    \entry{triangulation}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{7}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Triangulation}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Triangulation
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Triangulation
+      \endverb
+    \endentry
+    \entry{encryption}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{8}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Verschluesselung}
+      \field{urlday}{15}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://de.wikipedia.org/wiki/Verschl%C3%BCsselung
+      \endverb
+      \verb{url}
+      \verb https://de.wikipedia.org/wiki/Verschl%C3%BCsselung
+      \endverb
+    \endentry
+    \entry{metadata}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=12672e79b01e9ca7018105efb0ef871c}{%
+           family={wikipedia},
+           familyi={w\bibinitperiod}}}%
+      }
+      \strng{namehash}{12672e79b01e9ca7018105efb0ef871c}
+      \strng{fullhash}{12672e79b01e9ca7018105efb0ef871c}
+      \strng{bibnamehash}{12672e79b01e9ca7018105efb0ef871c}
+      \strng{authorbibnamehash}{12672e79b01e9ca7018105efb0ef871c}
+      \strng{authornamehash}{12672e79b01e9ca7018105efb0ef871c}
+      \strng{authorfullhash}{12672e79b01e9ca7018105efb0ef871c}
+      \field{sortinit}{w}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Metadata}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Metadata
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Metadata
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
