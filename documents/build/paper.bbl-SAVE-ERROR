@@ -108,12 +108,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{ai lobbying spikes nearly 200 percent}
-      \field{urlday}{2}
+      \field{title}{ai lobbying spikes nearly 200%}
+      \field{urlday}{1}
       \field{urlmonth}{6}
       \field{urlyear}{2024}
       \field{year}{2024}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{urlraw}
       \verb https://www.cnbc.com/2024/02/02/ai-lobbying-spikes-nearly-200percent-as-calls-for-regulation-surge.html
       \endverb
@@ -187,42 +188,6 @@
       \endverb
       \verb{url}
       \verb https://youtube.com/watch?v=aHhx8mMUV2o
-      \endverb
-    \endentry
-    \entry{experts-letter-dont-give-big-tech-power}{online}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=55c388276c00f17147b82840e6098eea}{%
-           family={Encode\bibnamedelima Justice},
-           familyi={E\bibinitperiod\bibinitdelim J\bibinitperiod},
-           given={Future\bibnamedelimb of\bibnamedelimb life\bibnamedelima institute.},
-           giveni={F\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim i\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{55c388276c00f17147b82840e6098eea}
-      \strng{fullhash}{55c388276c00f17147b82840e6098eea}
-      \strng{bibnamehash}{55c388276c00f17147b82840e6098eea}
-      \strng{authorbibnamehash}{55c388276c00f17147b82840e6098eea}
-      \strng{authornamehash}{55c388276c00f17147b82840e6098eea}
-      \strng{authorfullhash}{55c388276c00f17147b82840e6098eea}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{AI Licensing for a Better Future: On Addressing Both Present Harms and Emerging Threats}
-      \field{urlday}{2}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{2023}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://futureoflife.org/open-letter/ai-policy-for-a-better-future-on-addressing-both-present-harms-and-emerging-threats/
-      \endverb
-      \verb{url}
-      \verb https://futureoflife.org/open-letter/ai-policy-for-a-better-future-on-addressing-both-present-harms-and-emerging-threats/
       \endverb
     \endentry
     \entry{google-enginner-says-big-ai-sucks}{online}{}
@@ -1000,6 +965,7 @@
       \field{urlyear}{2024}
       \field{year}{2018}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{urlraw}
       \verb https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G/
       \endverb
@@ -1203,6 +1169,7 @@
       \field{urlyear}{2024}
       \field{year}{2024}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{urlraw}
       \verb https://en.wikipedia.org/wiki/Algorithmic_bias
       \endverb
@@ -1538,12 +1505,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{ai lobbying spikes nearly 200 percent}
-      \field{urlday}{2}
+      \field{title}{ai lobbying spikes nearly 200%}
+      \field{urlday}{1}
       \field{urlmonth}{6}
       \field{urlyear}{2024}
       \field{year}{2024}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{urlraw}
       \verb https://www.cnbc.com/2024/02/02/ai-lobbying-spikes-nearly-200percent-as-calls-for-regulation-surge.html
       \endverb
@@ -1617,42 +1585,6 @@
       \endverb
       \verb{url}
       \verb https://youtube.com/watch?v=aHhx8mMUV2o
-      \endverb
-    \endentry
-    \entry{experts-letter-dont-give-big-tech-power}{online}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=55c388276c00f17147b82840e6098eea}{%
-           family={Encode\bibnamedelima Justice},
-           familyi={E\bibinitperiod\bibinitdelim J\bibinitperiod},
-           given={Future\bibnamedelimb of\bibnamedelimb life\bibnamedelima institute.},
-           giveni={F\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim i\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{55c388276c00f17147b82840e6098eea}
-      \strng{fullhash}{55c388276c00f17147b82840e6098eea}
-      \strng{bibnamehash}{55c388276c00f17147b82840e6098eea}
-      \strng{authorbibnamehash}{55c388276c00f17147b82840e6098eea}
-      \strng{authornamehash}{55c388276c00f17147b82840e6098eea}
-      \strng{authorfullhash}{55c388276c00f17147b82840e6098eea}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{AI Licensing for a Better Future: On Addressing Both Present Harms and Emerging Threats}
-      \field{urlday}{2}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{2023}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://futureoflife.org/open-letter/ai-policy-for-a-better-future-on-addressing-both-present-harms-and-emerging-threats/
-      \endverb
-      \verb{url}
-      \verb https://futureoflife.org/open-letter/ai-policy-for-a-better-future-on-addressing-both-present-harms-and-emerging-threats/
       \endverb
     \endentry
     \entry{google-enginner-says-big-ai-sucks}{online}{}
@@ -2430,6 +2362,7 @@
       \field{urlyear}{2024}
       \field{year}{2018}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{urlraw}
       \verb https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G/
       \endverb
@@ -2633,6 +2566,7 @@
       \field{urlyear}{2024}
       \field{year}{2024}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{urlraw}
       \verb https://en.wikipedia.org/wiki/Algorithmic_bias
       \endverb
